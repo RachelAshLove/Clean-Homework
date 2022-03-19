@@ -154,6 +154,7 @@ body {
    padding: 20px;
    padding-right: 20px;
    font-family: monospace;
+   color: rgb(59, 59, 58);
  }
 
  .project2  {
@@ -173,6 +174,7 @@ body {
   padding: 20px;
   padding-right: 20px;
   font-family: monospace;
+  color: rgb(59, 59, 58);
 }
 
 .project3  {
@@ -192,6 +194,7 @@ body {
   padding: 20px;
   padding-right: 20px;
   font-family: monospace;
+  color: rgb(59, 59, 58);
 }
 
  footer {
