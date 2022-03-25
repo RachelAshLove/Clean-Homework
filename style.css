@@ -172,6 +172,10 @@ body {
 
  #nappySpin {
   float: left;
+  animation: spin 5s ease;
+  transition: all;
+  margin: 0 auto;
+  animation-iteration-count: infinite;
  }
 
  .box {
@@ -192,10 +196,6 @@ body {
   font-family: monospace;
   
  }
-
-.boxtext {
-  border: 2px solid white;
-}
 
  .boxtext2 {
    display: flex;
