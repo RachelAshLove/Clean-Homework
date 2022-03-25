@@ -172,10 +172,6 @@ body {
 
  #nappySpin {
   float: left;
-  animation: spin 5s ease;
-  transition: all;
-  margin: 0 auto;
-  animation-iteration-count: infinite;
  }
 
  .box {
